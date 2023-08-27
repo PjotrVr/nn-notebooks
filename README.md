@@ -1,4 +1,4 @@
-# nn_notebooks
+# nn-notebooks
 New collection of NN notebooks (better than before)
 
 # license
